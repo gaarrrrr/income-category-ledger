@@ -4,8 +4,8 @@
 This repository contains the refactored **Finals TLA 1** project for *CS008.23 - Web Applications Development 1*. The application transitions our original Midterm Vanilla JavaScript DOM manipulation code into a modern, declarative single-page React application powered by Vite and Bootstrap 5.
 
 ## 🔗 Live Deliverables
-- **GitHub Repository:** [Insert Your GitHub Link Here]
-- **Vercel Live Deployment:** [Insert Your Vercel Live Link Here]
+- **GitHub Repository:** [https://github.com/gaarrrrr/income-category-ledger.git]
+- **Vercel Live Deployment:** [https://income-category-ledger-gaarrrrr.vercel.app/]
 
 ---
 
